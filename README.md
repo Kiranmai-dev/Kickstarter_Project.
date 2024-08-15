@@ -3,16 +3,16 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Findings](#results/findings)
+- [Findings](#findings)
 - [Recommendations](#recommendations)
 
 ### Description
 
 This project involves analyzing crowdfunding platform's data to derive actionable insights and creating interactive dashboards to visualize the results. The goal was to identify key trends, Projects performance metrics, and areas for improvement to support business decision-making.
 
-### Data Sources
+## Dashboard - Pie Chart
 
-Crowdfunding Project Data: The Primary dataset used for this analysis is the "" file, containing detailed information about each projects performance,deadline,backers,failures and amount raised etc. 
+![Pie_chart](https://github.com/user-attachments/assets/1927729f-d473-43d8-b391-b7855b9a3b1c)
 
 ### Tools
 
@@ -28,7 +28,7 @@ In the initial data preparation phase, we performed the following tasks:
 4. Converted the Date fields to Natural Time.
 5. Created a new field to measure the time it took for the project to chansge it's state.
 
-### Results/Findings
+### Findings
 
 The analysis results are summarized as follows:
 1. The company's share of successful projects has a decline in last year and needs attention.
